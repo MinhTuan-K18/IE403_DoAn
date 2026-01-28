@@ -14,13 +14,13 @@
 -    **Giảng viên lý thuyết:** Thầy Huỳnh Văn Tín
 
 ## Thông tin nhóm
-| STT | MSSV     | Họ và Tên         | Vai trò | GitHub                           | Email                  |
+| STT | MSSV | Họ và Tên | Vai trò | GitHub | Email |
 | :-- | :------- | :---------------- | :---------------- | :------------------------------- | :--------------------- |
-| 1   | 23521394 | Trần Minh Hoài Tâm | | | 23521394@gm.uit.edu.vn |
-| 2   | 23521502 | Nguyễn Hữu Thịnh | | | 23521502@gm.uit.edu.vn |
-| 3   | 23521680 | Nguyễn Quốc Trung | | | 21521680@gm.uit.edu.vn |
-| 4   | 23521720 | Nguyễn Minh Tuấn  | Nhóm trưởng | [MinhTuan-K18](https://github.com/MinhTuan-K18)  | 23521720@gm.uit.edu.vn |
+| 1   | 23521394 | Trần Minh Hoài Tâm | Thành viên | | 23521394@gm.uit.edu.vn |
+| 2   | 23521502 | Nguyễn Hữu Thịnh | Thành viên | | 23521502@gm.uit.edu.vn |
+| 3   | 23521680 | Nguyễn Quốc Trung | Thành viên | | 21521680@gm.uit.edu.vn |
+| 4   | 23521720 | Nguyễn Minh Tuấn | Nhóm trưởng | [MinhTuan-K18](https://github.com/MinhTuan-K18)  | 23521720@gm.uit.edu.vn |
 
 ## Các đường liên kết:
--    **Báo cáo:** []()
--    **Bảng phân công:** []()
+-    **Báo cáo:** [IE403_Report](https://docs.google.com/document/d/1ZJABhBIXmbxBn_J8ke9Ycu392F80NfyLgRMCIqOAxac/edit?usp=sharing)
+-    **Bảng phân công:** [IE403_ProjectManagement](https://docs.google.com/spreadsheets/d/1b_rNmqkP3FLXPUYffLSEMa80eRSMogZ4o2Rb-3Syxyg/edit?usp=sharing)
