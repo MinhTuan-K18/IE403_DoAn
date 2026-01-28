@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"><b>Khai thác dữ liệu truyền thông xã hộP - IE403.Q21 - UIT</b></h1>
+<h1 align="center"><b>Khai thác dữ liệu truyền thông xã hội - IE403.Q21 - UIT</b></h1>
 
 ## Giới thiệu môn
 -    **Tên môn học:** Khai thác dữ liệu truyền thông xã hội
@@ -14,12 +14,12 @@
 -    **Giảng viên lý thuyết:** Thầy Huỳnh Văn Tín
 
 ## Thông tin nhóm
-| STT | MSSV     | Họ và Tên         | GitHub                           | Email                  |
-| :-- | :------- | :---------------- | :------------------------------- | :--------------------- |
-| 1   | 23521394 | Trần Minh Hoài Tâm | | 23521394@gm.uit.edu.vn |
-| 2   | 23521502 | Nguyễn Hữu Thịnh | | 23521502@gm.uit.edu.vn |
-| 3   | 23521680 | Nguyễn Quốc Trung | | 21521680@gm.uit.edu.vn |
-| 4   | 23521720 | Nguyễn Minh Tuấn  | https://github.com/MinhTuan-K18  | 23521720@gm.uit.edu.vn |
+| STT | MSSV     | Họ và Tên         | Vai trò | GitHub                           | Email                  |
+| :-- | :------- | :---------------- | :---------------- | :------------------------------- | :--------------------- |
+| 1   | 23521394 | Trần Minh Hoài Tâm | | | 23521394@gm.uit.edu.vn |
+| 2   | 23521502 | Nguyễn Hữu Thịnh | | | 23521502@gm.uit.edu.vn |
+| 3   | 23521680 | Nguyễn Quốc Trung | | | 21521680@gm.uit.edu.vn |
+| 4   | 23521720 | Nguyễn Minh Tuấn  | Nhóm trưởng | [MinhTuan-K18](https://github.com/MinhTuan-K18)  | 23521720@gm.uit.edu.vn |
 
 ## Các đường liên kết:
 -    **Báo cáo:** []()
